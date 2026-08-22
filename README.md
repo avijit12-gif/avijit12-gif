@@ -168,7 +168,9 @@ I'm interested in opportunities related to:
 
 
 <p align="center">
-  <img src= https://www.dropbox.com/scl/fi/vdza91ayteh702ajvqhmw/resume.pdf?rlkey=rprhthq0bvc37u8fr1879p2bc&st=qz1k0847&e=1&dl=0 alt="Avijit's Resume" />
+  ## 📄 Resume
+
+[📥 View / Download My Resume](https://www.dropbox.com/scl/fi/vdza91ayteh702ajvqhmw/resume.pdf?rlkey=rprhthq0bvc37u8fr1879p2bc&dl=1)
 </p>
 
 ---
