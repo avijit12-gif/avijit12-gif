@@ -144,7 +144,7 @@ I'm interested in opportunities related to:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=avijit12-gif\&show_icons=true\&theme=tokyonight\&hide_border=true](https://github.com/avijit12-gif?tab=repositories))
+![GitHub Stats](https://github.com/avijit12-gif?tab=repositories)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijit12-gif\&layout=compact\&theme=tokyonight\&hide_border=true)
 
