@@ -168,7 +168,7 @@ I'm interested in opportunities related to:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avijit12-gif&show_icons=true&theme=tokyonight" alt="Avijit's GitHub Stats" />
+  <img src="https://www.dropbox.com/scl/fi/vdza91ayteh702ajvqhmw/resume.pdf?rlkey=rprhthq0bvc37u8fr1879p2bc&st=qz1k0847&dl=0" alt="Avijit's Resume" />
 </p>
 
 ---
